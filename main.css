@@ -1,0 +1,36 @@
+.title{
+    color: white;
+    text-align: center;
+}
+.logo{
+    width: 1200px;
+
+    background-color: yellow;
+    margin: 0 auto;
+}
+.ota{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bola{
+    margin-top: 23px;
+}
+.grandparent{
+    color: white;
+}
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+}
+.child{
+    background-color: black;
+   text-align: center;
+   width: 200px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.tora{
+    background-color: crimson;
+     box-sizing: border-box;
+     padding: 20px;
+}
